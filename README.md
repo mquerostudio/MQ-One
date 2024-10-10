@@ -1,6 +1,7 @@
 # MQ One
 
-Este repositorio contiene todos los archivos creados a partir de mi Trabajo Final de Grado: **Diseño, validación e implementación de un dispositivo electrónico programable modular**.
+Este repositorio contiene todos los archivos creados a partir de mi Trabajo Final de Grado: 
+**Diseño, validación e implementación de un dispositivo electrónico programable modular**.
 
 El proyecto se ha centrado en el diseño de una nueva plataforma educativa que facilite la enseñanza de programación de microcontroladores. 
 
