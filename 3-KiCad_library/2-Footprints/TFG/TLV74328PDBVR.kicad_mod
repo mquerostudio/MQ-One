@@ -1,0 +1,241 @@
+(footprint "TLV74328PDBVR"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "TLV74328PDBVR")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "61951afd-cd16-4a05-9aec-d17faa07b3a3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TLV74328PDBVR "
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3749d41e-80df-4fae-968b-7a5f5b3cb0bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d90947e9-1e1f-4a2d-a0d5-f9b5883eecd9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1aa21a1e-42ec-4e81-a85c-8c4b36626dd3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e376ae6a-4154-40c1-a6ff-229e7dcb45e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(solder_mask_margin 0.051)
+	(attr smd)
+	(fp_line
+		(start -0.7 -1.6)
+		(end 0.7 -1.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "634b216c-8bf9-420c-9de8-72fe6e1b0979")
+	)
+	(fp_line
+		(start -0.7 1.6)
+		(end 0.7 1.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cfd481ec-a47a-4e08-8108-299120ea261a")
+	)
+	(fp_circle
+		(center -2.4 -2)
+		(end -2.273 -2)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "3e9f1b1b-5235-4c70-9171-a6af3d910894")
+	)
+	(fp_line
+		(start -2.4 -2)
+		(end 2.4 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aeaf4d4b-368e-4ca9-a447-cb191921a4b4")
+	)
+	(fp_line
+		(start -2.4 2)
+		(end -2.4 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1642e930-a306-4244-8d99-fdc73e6cf869")
+	)
+	(fp_line
+		(start 2.4 -2)
+		(end 2.4 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1c5c41e1-ff65-4fc0-bfdc-cbe3349d3679")
+	)
+	(fp_line
+		(start 2.4 2)
+		(end -2.4 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f5578b02-d3f1-4d6b-8b61-32757f056645")
+	)
+	(fp_line
+		(start -0.8 -1.45)
+		(end 0.8 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1b150981-2a22-4281-941a-b2e860fa551e")
+	)
+	(fp_line
+		(start -0.8 -0.5)
+		(end 0.15 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3b65bc66-1a96-465d-b332-b4fcdee29951")
+	)
+	(fp_line
+		(start -0.8 1.45)
+		(end -0.8 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2c48638f-29c8-4a1e-9cc4-0d16d68eeb46")
+	)
+	(fp_line
+		(start 0.8 -1.45)
+		(end 0.8 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "700c9f5c-6b19-4511-8631-2666d4ecbf66")
+	)
+	(fp_line
+		(start 0.8 1.45)
+		(end -0.8 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "17976816-97f2-42fc-afb4-0d20b29a5537")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "96e380f8-87ba-4a24-bfe2-050910c9c8f2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.25 -0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "71aa0b0c-697a-41a4-85ea-44c62df78b8c")
+	)
+	(pad "2" smd rect
+		(at -1.25 0 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c67c594b-b012-4210-919c-db881de878d3")
+	)
+	(pad "3" smd rect
+		(at -1.25 0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8cfdfb80-fbc1-4af8-adfb-c4404312c13f")
+	)
+	(pad "4" smd rect
+		(at 1.25 0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "daae2fc8-fcdc-465d-b0e1-f128125cde0f")
+	)
+	(pad "5" smd rect
+		(at 1.25 -0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a78a69d9-8dd0-4a29-96bc-017cb085a8dd")
+	)
+	(model "${TFG_3D_LIBRARY}/TLV74328PDBVR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

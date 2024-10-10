@@ -1,0 +1,87 @@
+01-26 13:04:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 641:Plugin executed on: 'win32'
+01-26 13:04:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 642:Plugin executed with python version: '3.9.16 (main, Aug  8 2023, 05:38:28) [MSC v.1936 64 bit (AMD64)]'
+01-26 13:04:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 643:KiCad build version: 7.0.7
+01-26 13:04:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 644:Plugin version: 2.1.2
+01-26 13:04:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 645:Frame repr: <wx._core.Frame object at 0x000001F393E8E040>
+01-26 13:04:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+01-26 13:04:53 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 824:Reference designator is: C
+01-26 13:04:53 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 825:Reference number is: 1
+01-26 13:04:53 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 857:Sorted and filtered list:
+['C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'C10', 'C11', 'C12', 'C13', 'C14', 'C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29']
+01-26 13:04:53 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 358:wx.Colour(240, 240, 240, 255)
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 489:'0.5'
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 895:Footprints to place:
+['C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'C10', 'C11', 'C12', 'C13', 'C14', 'C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24']
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 330:Starting placing with circular layout
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 340:reference footprint position at: VECTOR2I(266700000, 137160000)
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 345:rotation center at: (266700000, 149860000.0)
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.place_footprints 450:Text of: C1 has property "Keep upright" rotation might not look as intended
+01-26 13:04:58 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 910:Placing complete

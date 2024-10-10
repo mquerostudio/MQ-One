@@ -1,0 +1,236 @@
+(footprint "LQH44PN1R0MPRL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "LQH44PN1R0MPRL ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "117894c1-14fc-4558-ac05-b1ee7c62ecce")
+		(effects
+			(font
+				(size 1.127 1.127)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "LQH44PN1R0MPRL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f3da49ce-801b-4f99-a2f4-ce11df60c07a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32cc50d0-84fd-44e2-add6-1fea0ef3cb15")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65d8bccc-f4de-448d-ab95-4008f1856afb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d6a2d7c-5a33-4778-85b4-89303d5c5127")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(solder_mask_margin 0.051)
+	(attr smd)
+	(fp_line
+		(start -2.2225 -2.2225)
+		(end -2.2225 -1.50135)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7264703b-9066-49bc-908c-fc9a83e26594")
+	)
+	(fp_line
+		(start -2.2225 1.50135)
+		(end -2.2225 2.2225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e63e9102-ad73-4333-95db-bebc98481c0a")
+	)
+	(fp_line
+		(start -2.2225 2.2225)
+		(end 2.2225 2.2225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "636c1d2d-583d-4264-9a80-f4be7a82bffa")
+	)
+	(fp_line
+		(start 2.2225 -2.2225)
+		(end -2.2225 -2.2225)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1bd2b73e-c498-48d0-8cbe-7f9b18986801")
+	)
+	(fp_line
+		(start -2.3 -2.3)
+		(end 2.3 -2.3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "1baa04cf-245d-4f6d-9004-eb0f64e511e6")
+	)
+	(fp_line
+		(start -2.3 2.3)
+		(end -2.3 -2.3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "09bc20da-30e1-453c-94bf-878a5ea41bb9")
+	)
+	(fp_line
+		(start 2.3 -2.3)
+		(end 2.3 2.3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "1f3aa2ad-3e88-4856-8849-68c97de85969")
+	)
+	(fp_line
+		(start 2.3 2.3)
+		(end -2.3 2.3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "3bd79181-9aff-4d8c-9e16-9dc2986bf865")
+	)
+	(fp_line
+		(start -2.0955 -2.0955)
+		(end -2.0955 2.0955)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7bc7a4c9-9ab0-4bf2-a5ea-4c5d85c4d17e")
+	)
+	(fp_line
+		(start -2.0955 2.0955)
+		(end 2.0955 2.0955)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0146c97-5ac2-4ea1-966d-4a946e7f5f09")
+	)
+	(fp_line
+		(start 2.0955 -2.0955)
+		(end -2.0955 -2.0955)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d40ee1b2-3a3a-4b5e-b213-3722ae15f1e3")
+	)
+	(fp_line
+		(start 2.0955 2.0955)
+		(end 2.0955 -2.0955)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5a71e0d4-6dbe-421e-84ae-5a033a5d31a0")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.0762 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "03872de0-2fee-4539-a89c-790760c8fdad")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2e4a1c40-5d3f-486c-b7c0-e0d384f49235")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.4478 0)
+		(size 1.2954 2.3876)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a560f91b-8f11-4885-ab1a-e76587465f8d")
+	)
+	(pad "2" smd rect
+		(at 1.4478 0)
+		(size 1.2954 2.3876)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7475889c-790f-4cca-8638-fc3bd15d903f")
+	)
+	(model "${TFG_3D_LIBRARY}/LQH44PN1R0MPRL.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

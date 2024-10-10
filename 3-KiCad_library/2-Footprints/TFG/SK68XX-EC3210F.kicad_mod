@@ -1,0 +1,247 @@
+(footprint "SK68XX-EC3210F"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "SK68XX-EC3210F")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9a937dba-3452-423c-8e6f-349bc406cb3c")
+		(effects
+			(font
+				(size 1.127 1.127)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "SK68XX-EC3210F"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c90cc834-4476-4649-a2d3-1b22af215c1d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e21d220-5732-4ea8-a59b-c8cd0746008e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5d274d7-f7ae-49e0-96fb-3e2f1d0a5ee3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ac9bb7a-858a-4fb2-96ff-beb82bb25965")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(solder_mask_margin 0.051)
+	(attr smd)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ac69d499-8d2f-4ce2-8d99-d14fad358073")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "98b2fb8e-4ca6-4fdb-a3d1-94ed281cbd34")
+	)
+	(fp_circle
+		(center -2.2 0)
+		(end -2.073 0)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bc896737-d57b-4c66-ac02-b1c8d49b413b")
+	)
+	(fp_line
+		(start -2.2 -1.1)
+		(end -2.2 1.1)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "edc0722b-3ca1-4d03-9205-ff7f83dc928a")
+	)
+	(fp_line
+		(start -2.2 1.1)
+		(end 2.2 1.1)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "307f6e3f-fdc9-44d9-bcf0-c2b75811bf29")
+	)
+	(fp_line
+		(start 2.2 -1.1)
+		(end -2.2 -1.1)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "9469dc07-67f8-48e9-b496-55d379ac9d77")
+	)
+	(fp_line
+		(start 2.2 1.1)
+		(end 2.2 -1.1)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4565ac0-1b3b-4e14-b0f7-3ef8eddf01b6")
+	)
+	(fp_line
+		(start -1.6002 -0.4953)
+		(end -1.6002 0.4953)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df7271c5-874f-4dd6-8624-7d2d9e8211ca")
+	)
+	(fp_line
+		(start -1.6002 0.4953)
+		(end 1.6002 0.4953)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ef13383f-3045-47e3-95d3-9ec038a13df2")
+	)
+	(fp_line
+		(start 1.6002 -0.4953)
+		(end -1.6002 -0.4953)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8fe66fd5-f5ba-4566-8745-0d11b531784c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "838fdf44-7ad6-411f-8c46-e21848bafcee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -0.361027 -0.248572 270)
+		(size 0.5588 0.4064)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.3048 1.26999) (xy -0.3048 -0.2032) (xy 0.7874 -0.2032) (xy 0.7874 0.3048) (xy 0.1016 0.3048)
+					(xy 0.1016 1.26999)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "b474ccbd-0598-4b5e-bc1d-8ebf972c6d49")
+	)
+	(pad "2" smd rect
+		(at -1.35 0.34925)
+		(size 0.5588 0.4064)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c688e911-732b-4986-95c0-9508cf3f666b")
+	)
+	(pad "3" smd rect
+		(at 1.35 0.34925)
+		(size 0.5588 0.4064)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d7f73633-d09a-483c-a7e0-98062b6b8e26")
+	)
+	(pad "4" smd custom
+		(at 0.358892 -0.247415 90)
+		(size 0.5588 0.4064)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.3048 1.26999) (xy 0.3048 -0.2032) (xy -0.7874 -0.2032) (xy -0.7874 0.3048) (xy -0.1016 0.3048)
+					(xy -0.1016 1.26999)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "993d4b65-e13c-47ec-a9e5-e9e5cc5b75a1")
+	)
+	(model "${TFG_3D_LIBRARY}/SK68XX-EC3210F.iges"
+		(offset
+			(xyz 2 1.1 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

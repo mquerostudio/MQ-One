@@ -1,0 +1,237 @@
+(footprint "USBLC6-2SC6"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "USBLC6-2SC6")
+	(tags "USBLC6-2SC6")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "a32da082-31c4-4d81-9dd0-0db929b390ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "USBLC6-2SC6"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "01f813b4-4e02-4091-9a4b-ed4241620af5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "USBLC6-2SC6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b85d252-56ae-4a22-bbe9-dfa692636524")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf078d9d-f487-4c2f-8fc1-1efa89c0f344")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fce11778-c4b8-44ce-994b-f5d684482b69")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(solder_mask_margin 0.051)
+	(attr smd)
+	(fp_line
+		(start -0.8 -1.7)
+		(end 0.8 -1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f6ead858-98a5-42cd-aea9-aa563c0a5a10")
+	)
+	(fp_line
+		(start -0.8 1.7)
+		(end 0.8 1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "681923a1-6a51-4617-bddd-67cddc1aa11c")
+	)
+	(fp_line
+		(start -2.1 -1.7)
+		(end 2 -1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b4f476f8-03ee-4812-aaf5-d18f4efe5e39")
+	)
+	(fp_line
+		(start -2.1 1.7)
+		(end -2.1 -1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "33d0cf4b-7ae3-46f1-ab94-400cc1255862")
+	)
+	(fp_line
+		(start 2 -1.7)
+		(end 2 1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ac0b91f-87ed-4154-83a1-06b3550c0373")
+	)
+	(fp_line
+		(start 2 1.7)
+		(end -2.1 1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "367f12d4-95cb-4264-8a6f-dd188832d8f7")
+	)
+	(fp_line
+		(start -0.812 -1.462)
+		(end 0.812 -1.462)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "974d1a70-3a11-497f-a7e5-b482e5143dba")
+	)
+	(fp_line
+		(start -0.812 -0.512)
+		(end 0.138 -1.462)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8f260631-d584-43a1-9652-4ab1e304c48b")
+	)
+	(fp_line
+		(start -0.812 1.462)
+		(end -0.812 -1.462)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1e49ef75-dd77-4e19-b98f-e4dce315999e")
+	)
+	(fp_line
+		(start 0.812 -1.462)
+		(end 0.812 1.462)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d59cf4b3-a60c-40ff-9bae-5961103df0ef")
+	)
+	(fp_line
+		(start 0.812 1.462)
+		(end -0.812 1.462)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fe99c247-a768-4a59-8d4a-229d9f09664c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5434cb9a-03cf-48dc-a3cd-2bf74c8074e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.25 -0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6051b1ef-4056-41ae-aca5-3e23ec07229c")
+	)
+	(pad "2" smd rect
+		(at -1.25 0 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "27a529aa-4f3f-4593-9c3e-4fbdb5edd1e9")
+	)
+	(pad "3" smd rect
+		(at -1.25 0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b5664b4e-64ea-4898-91a7-532c777cf478")
+	)
+	(pad "4" smd rect
+		(at 1.25 0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "eee3675c-c918-410e-91c3-1ba15b00237a")
+	)
+	(pad "5" smd rect
+		(at 1.25 0 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "eeecb2a1-f530-4af4-8328-bfc821a1a7b0")
+	)
+	(pad "6" smd rect
+		(at 1.25 -0.95 90)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7a37fd74-8351-4ebd-ae72-bd472f965478")
+	)
+	(model "${TFG_3D_LIBRARY}/USBLC6-2SC6.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,528 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4b0101fb-345d-4dc9-888f-9906c9e8d5c9")
+	(paper "A4")
+	(title_block
+		(title "POC-TB")
+		(date "2024-07-18")
+		(rev "Final")
+	)
+	(lib_symbols)
+	(sheet
+		(at 105.41 22.86)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "092745eb-8be8-4ba0-9992-f2da44c2bcf7")
+		(property "Sheetname" "Power"
+			(at 105.41 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 105.41 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 105.41 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 22.86)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "15394a9c-b67e-4a73-ad4e-b00b313811ca")
+		(property "Sheetname" "ESP32"
+			(at 54.61 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 54.61 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 73.66)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "22067d9e-8848-4726-be26-f0aecefffbf1")
+		(property "Sheetname" "MAX98357"
+			(at 54.61 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MAX98357.kicad_sch"
+			(at 54.61 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 54.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 73.66)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ace53f9-7ed8-4ee3-9975-375969b8fc87")
+		(property "Sheetname" "SD-Slot"
+			(at 105.41 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SD-Slot.kicad_sch"
+			(at 105.41 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 73.66)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2b6ef668-7751-4ffb-a75b-a52226c6b4e3")
+		(property "Sheetname" "Cámara"
+			(at 207.01 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OV5640.kicad_sch"
+			(at 207.01 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 207.01 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 124.46)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3fbaf192-23ec-46f9-b371-dd0934d60d22")
+		(property "Sheetname" "BME280"
+			(at 105.41 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BME280.kicad_sch"
+			(at 105.41 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 105.41 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 124.46)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "45cbf7c0-cc86-462a-896a-215d0aa03267")
+		(property "Sheetname" "Miscelaneous"
+			(at 207.01 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Miscelaneous.kicad_sch"
+			(at 207.01 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 73.66)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "47da551a-55bd-4ace-b2f6-caf49bbf5dd9")
+		(property "Sheetname" "EEPPROMs"
+			(at 156.21 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EEPPROMs.kicad_sch"
+			(at 156.21 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 22.86)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5dfcf9f7-0a43-43a3-9179-4096b328d5c0")
+		(property "Sheetname" "LEAT"
+			(at 156.21 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEAT.kicad_sch"
+			(at 156.21 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 124.46)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "868ddd8b-c6cc-4bdb-b3ba-8298e8750084")
+		(property "Sheetname" "GPS"
+			(at 54.61 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PA116D.kicad_sch"
+			(at 54.61 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 22.86)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "af6f1f7f-873b-4c72-914e-16a427605a13")
+		(property "Sheetname" "BNO085"
+			(at 207.01 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BNO085.kicad_sch"
+			(at 207.01 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 124.46)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d048155f-9c40-44a7-a502-30ecbe0527a7")
+		(property "Sheetname" "Display"
+			(at 156.21 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Display.kicad_sch"
+			(at 156.21 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 156.21 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "POC-TB"
+				(path "/4b0101fb-345d-4dc9-888f-9906c9e8d5c9"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
