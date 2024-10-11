@@ -4,7 +4,7 @@ Este repositorio contiene todos los archivos creados para mi Trabajo Final de Gr
 
 ***Diseño, validación e implementación de un dispositivo electrónico programable modular***
 
-El proyecto se ha centrado en el **diseño de una nueva plataforma educativa** que facilite la enseñanza de **programación de microcontroladores.**
+El proyecto se ha centrado en el **diseño de una nueva plataforma educativa** que facilite el aprendizaje de la **programación de microcontroladores.**
 
 <div align="center">
   <a href="url"><img src="https://optimistic-kindness-c344eba2ae.media.strapiapp.com/MQ_One_Mountain_Module_9f623ba41d.jpeg" height="420"></a>
